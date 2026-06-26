@@ -159,9 +159,8 @@ nav navbar a:hover {
   text-align: center;
 }
 
-.hero .left button {
-  height: 60px;
-  width: 250px;
+.hero .left a {
+  padding: 10px 20px;
   background-color: var(--secondary);
   color: #fff;
   font-size: 20px;
